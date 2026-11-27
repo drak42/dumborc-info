@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="392" viewBox="0 0 760 392" font-family="Helvetica, Arial, sans-serif">
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#555"/></marker></defs><rect width="760" height="392" fill="#ffffff"/>
+<text x="380" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">DumboRC receivers at a glance</text>
+<rect x="20" y="50" width="165" height="28" rx="4" fill="#333"/><text x="102" y="69.0" text-anchor="middle" font-size="13" fill="#fff">Receiver</text>
+<rect x="190" y="50" width="55" height="28" rx="4" fill="#333"/><text x="217" y="69.0" text-anchor="middle" font-size="13" fill="#fff">Ch</text>
+<rect x="250" y="50" width="75" height="28" rx="4" fill="#333"/><text x="287" y="69.0" text-anchor="middle" font-size="13" fill="#fff">Gyro</text>
+<rect x="330" y="50" width="115" height="28" rx="4" fill="#333"/><text x="387" y="69.0" text-anchor="middle" font-size="13" fill="#fff">Lights</text>
+<rect x="450" y="50" width="105" height="28" rx="4" fill="#333"/><text x="502" y="69.0" text-anchor="middle" font-size="13" fill="#fff">Telemetry</text>
+<rect x="560" y="50" width="180" height="28" rx="4" fill="#333"/><text x="650" y="69.0" text-anchor="middle" font-size="13" fill="#fff">Notes</text>
+<rect x="20" y="84" width="165" height="26" rx="4" fill="#f2f2f2"/><text x="102" y="102.0" text-anchor="middle" font-size="12" fill="#222">P4FM / P4FMG</text>
+<rect x="190" y="84" width="55" height="26" rx="4" fill="#f2f2f2"/><text x="217" y="102.0" text-anchor="middle" font-size="12" fill="#222">4</text>
+<rect x="250" y="84" width="75" height="26" rx="4" fill="#d7efe0"/><text x="287" y="102.0" text-anchor="middle" font-size="12" fill="#222">FMG</text>
+<rect x="330" y="84" width="115" height="26" rx="4" fill="#f2f2f2"/><text x="387" y="102.0" text-anchor="middle" font-size="12" fill="#222">—</text>
+<rect x="450" y="84" width="105" height="26" rx="4" fill="#f2f2f2"/><text x="502" y="102.0" text-anchor="middle" font-size="12" fill="#222">—</text>
+<rect x="560" y="84" width="180" height="26" rx="4" fill="#f2f2f2"/><text x="650" y="102.0" text-anchor="middle" font-size="12" fill="#222">Mini, 2.3 g</text>
+<rect x="20" y="114" width="165" height="26" rx="4" fill="#f2f2f2"/><text x="102" y="132.0" text-anchor="middle" font-size="12" fill="#222">P6F / P6FG</text>
+<rect x="190" y="114" width="55" height="26" rx="4" fill="#f2f2f2"/><text x="217" y="132.0" text-anchor="middle" font-size="12" fill="#222">6</text>
+<rect x="250" y="114" width="75" height="26" rx="4" fill="#d7efe0"/><text x="287" y="132.0" text-anchor="middle" font-size="12" fill="#222">FG</text>
+<rect x="330" y="114" width="115" height="26" rx="4" fill="#f2f2f2"/><text x="387" y="132.0" text-anchor="middle" font-size="12" fill="#222">—</text>
+<rect x="450" y="114" width="105" height="26" rx="4" fill="#f2f2f2"/><text x="502" y="132.0" text-anchor="middle" font-size="12" fill="#222">—</text>
+<rect x="560" y="114" width="180" height="26" rx="4" fill="#f2f2f2"/>
+<rect x="20" y="144" width="165" height="26" rx="4" fill="#f2f2f2"/><text x="102" y="162.0" text-anchor="middle" font-size="12" fill="#222">P6FP / P6FPG</text>
+<rect x="190" y="144" width="55" height="26" rx="4" fill="#f2f2f2"/><text x="217" y="162.0" text-anchor="middle" font-size="12" fill="#222">6</text>
+<rect x="250" y="144" width="75" height="26" rx="4" fill="#d7efe0"/><text x="287" y="162.0" text-anchor="middle" font-size="12" fill="#222">FPG</text>
+<rect x="330" y="144" width="115" height="26" rx="4" fill="#d7efe0"/><text x="387" y="162.0" text-anchor="middle" font-size="12" fill="#222">any ch</text>
+<rect x="450" y="144" width="105" height="26" rx="4" fill="#d7efe0"/><text x="502" y="162.0" text-anchor="middle" font-size="12" fill="#222">yes</text>
+<rect x="560" y="144" width="180" height="26" rx="4" fill="#f2f2f2"/><text x="650" y="162.0" text-anchor="middle" font-size="12" fill="#222">PPM</text>
+<rect x="20" y="174" width="165" height="26" rx="4" fill="#f2f2f2"/><text x="102" y="192.0" text-anchor="middle" font-size="12" fill="#222">P6DC / P6DCG</text>
+<rect x="190" y="174" width="55" height="26" rx="4" fill="#f2f2f2"/><text x="217" y="192.0" text-anchor="middle" font-size="12" fill="#222">6</text>
+<rect x="250" y="174" width="75" height="26" rx="4" fill="#d7efe0"/><text x="287" y="192.0" text-anchor="middle" font-size="12" fill="#222">DCG</text>
+<rect x="330" y="174" width="115" height="26" rx="4" fill="#d7efe0"/><text x="387" y="192.0" text-anchor="middle" font-size="12" fill="#222">controller</text>
+<rect x="450" y="174" width="105" height="26" rx="4" fill="#f2f2f2"/><text x="502" y="192.0" text-anchor="middle" font-size="12" fill="#222">—</text>
+<rect x="560" y="174" width="180" height="26" rx="4" fill="#f2f2f2"/><text x="650" y="192.0" text-anchor="middle" font-size="12" fill="#222">turn/brake/hazard</text>
+<rect x="20" y="204" width="165" height="26" rx="4" fill="#f2f2f2"/><text x="102" y="222.0" text-anchor="middle" font-size="12" fill="#222">P10F / P10FG</text>
+<rect x="190" y="204" width="55" height="26" rx="4" fill="#f2f2f2"/><text x="217" y="222.0" text-anchor="middle" font-size="12" fill="#222">10</text>
+<rect x="250" y="204" width="75" height="26" rx="4" fill="#d7efe0"/><text x="287" y="222.0" text-anchor="middle" font-size="12" fill="#222">FG</text>
+<rect x="330" y="204" width="115" height="26" rx="4" fill="#d7efe0"/><text x="387" y="222.0" text-anchor="middle" font-size="12" fill="#222">any ch</text>
+<rect x="450" y="204" width="105" height="26" rx="4" fill="#d7efe0"/><text x="502" y="222.0" text-anchor="middle" font-size="12" fill="#222">yes</text>
+<rect x="560" y="204" width="180" height="26" rx="4" fill="#f2f2f2"/><text x="650" y="222.0" text-anchor="middle" font-size="12" fill="#222">PPM</text>
+<rect x="20" y="234" width="165" height="26" rx="4" fill="#f2f2f2"/><text x="102" y="252.0" text-anchor="middle" font-size="12" fill="#222">P16FG</text>
+<rect x="190" y="234" width="55" height="26" rx="4" fill="#f2f2f2"/><text x="217" y="252.0" text-anchor="middle" font-size="12" fill="#222">16</text>
+<rect x="250" y="234" width="75" height="26" rx="4" fill="#d7efe0"/><text x="287" y="252.0" text-anchor="middle" font-size="12" fill="#222">yes</text>
+<rect x="330" y="234" width="115" height="26" rx="4" fill="#d7efe0"/><text x="387" y="252.0" text-anchor="middle" font-size="12" fill="#222">any ch</text>
+<rect x="450" y="234" width="105" height="26" rx="4" fill="#d7efe0"/><text x="502" y="252.0" text-anchor="middle" font-size="12" fill="#222">yes</text>
+<rect x="560" y="234" width="180" height="26" rx="4" fill="#f2f2f2"/><text x="650" y="252.0" text-anchor="middle" font-size="12" fill="#222">PPM ch16</text>
+<rect x="20" y="264" width="165" height="26" rx="4" fill="#f2f2f2"/><text x="102" y="282.0" text-anchor="middle" font-size="12" fill="#222">X6F / X6FG</text>
+<rect x="190" y="264" width="55" height="26" rx="4" fill="#f2f2f2"/><text x="217" y="282.0" text-anchor="middle" font-size="12" fill="#222">6</text>
+<rect x="250" y="264" width="75" height="26" rx="4" fill="#d7efe0"/><text x="287" y="282.0" text-anchor="middle" font-size="12" fill="#222">FG</text>
+<rect x="330" y="264" width="115" height="26" rx="4" fill="#f2f2f2"/><text x="387" y="282.0" text-anchor="middle" font-size="12" fill="#222">—</text>
+<rect x="450" y="264" width="105" height="26" rx="4" fill="#f2f2f2"/><text x="502" y="282.0" text-anchor="middle" font-size="12" fill="#222">—</text>
+<rect x="560" y="264" width="180" height="26" rx="4" fill="#f2f2f2"/><text x="650" y="282.0" text-anchor="middle" font-size="12" fill="#222">older series</text>
+<rect x="20" y="294" width="165" height="26" rx="4" fill="#f2f2f2"/><text x="102" y="312.0" text-anchor="middle" font-size="12" fill="#222">X10F / X10FG</text>
+<rect x="190" y="294" width="55" height="26" rx="4" fill="#f2f2f2"/><text x="217" y="312.0" text-anchor="middle" font-size="12" fill="#222">10</text>
+<rect x="250" y="294" width="75" height="26" rx="4" fill="#d7efe0"/><text x="287" y="312.0" text-anchor="middle" font-size="12" fill="#222">FG</text>
+<rect x="330" y="294" width="115" height="26" rx="4" fill="#f2f2f2"/><text x="387" y="312.0" text-anchor="middle" font-size="12" fill="#222">—</text>
+<rect x="450" y="294" width="105" height="26" rx="4" fill="#d7efe0"/><text x="502" y="312.0" text-anchor="middle" font-size="12" fill="#222">yes</text>
+<rect x="560" y="294" width="180" height="26" rx="4" fill="#f2f2f2"/><text x="650" y="312.0" text-anchor="middle" font-size="12" fill="#222">PPM</text>
+<rect x="20" y="324" width="165" height="26" rx="4" fill="#f2f2f2"/><text x="102" y="342.0" text-anchor="middle" font-size="12" fill="#222">XRDC</text>
+<rect x="190" y="324" width="55" height="26" rx="4" fill="#f2f2f2"/><text x="217" y="342.0" text-anchor="middle" font-size="12" fill="#222">6</text>
+<rect x="250" y="324" width="75" height="26" rx="4" fill="#f2f2f2"/><text x="287" y="342.0" text-anchor="middle" font-size="12" fill="#222">no</text>
+<rect x="330" y="324" width="115" height="26" rx="4" fill="#d7efe0"/><text x="387" y="342.0" text-anchor="middle" font-size="12" fill="#222">module</text>
+<rect x="450" y="324" width="105" height="26" rx="4" fill="#f2f2f2"/><text x="502" y="342.0" text-anchor="middle" font-size="12" fill="#222">—</text>
+<rect x="560" y="324" width="180" height="26" rx="4" fill="#f2f2f2"/><text x="650" y="342.0" text-anchor="middle" font-size="12" fill="#222">bundled kit</text>
+<text x="380" y="374" text-anchor="middle" font-size="12" fill="#555">All work with the DDF-350 · P series can be configured from the radio's receiver menu · no built-in ESCs</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="355" viewBox="0 0 760 355" font-family="Helvetica, Arial, sans-serif">
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#555"/></marker></defs><rect width="760" height="355" fill="#ffffff"/>
+<text x="380" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Checking gyro direction</text>
+<g transform="translate(190,150)"><rect x="-30" y="-60" width="60" height="120" rx="10" fill="#888" transform="rotate(-15)"/><rect x="-42" y="-62" width="12" height="28" rx="3" fill="#333" transform="rotate(20 -36 -48)"/><rect x="30" y="-62" width="12" height="28" rx="3" fill="#333" transform="rotate(20 36 -48)"/></g>
+<g transform="translate(570,150)"><rect x="-30" y="-60" width="60" height="120" rx="10" fill="#888" transform="rotate(-15)"/><rect x="-42" y="-62" width="12" height="28" rx="3" fill="#333" transform="rotate(-20 -36 -48)"/><rect x="30" y="-62" width="12" height="28" rx="3" fill="#333" transform="rotate(-20 36 -48)"/></g>
+<path d="M150,245 Q190,265 230,245" stroke="#c0392b" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<path d="M530,245 Q570,265 610,245" stroke="#c0392b" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<text x="190" y="290" text-anchor="middle" font-size="13" fill="#1a7a4a" font-weight="bold">Correct: rear kicks out, front</text>
+<text x="190" y="308" text-anchor="middle" font-size="13" fill="#222">steers into the slide (counter-steer)</text>
+<text x="570" y="290" text-anchor="middle" font-size="13" fill="#c0392b" font-weight="bold">Wrong: front steers away</text>
+<text x="570" y="308" text-anchor="middle" font-size="13" fill="#222">→ change gyro phase / bind key ×2</text>
+<text x="380" y="340" text-anchor="middle" font-size="13" fill="#444">Test with the wheels off the ground: flick the rear of the truck sideways and watch the front wheels.</text>
+</svg>

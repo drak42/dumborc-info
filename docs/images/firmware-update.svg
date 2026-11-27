@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="285" viewBox="0 0 760 285" font-family="Helvetica, Arial, sans-serif">
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#555"/></marker></defs><rect width="760" height="285" fill="#ffffff"/>
+<text x="380" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Firmware upgrade path and steps</text>
+<rect x="20" y="55" width="150" height="44" rx="8" fill="#9a9a9a"/><text x="95" y="82.0" text-anchor="middle" font-size="13" fill="#fff">Below 1.0.9</text>
+<line x1="170" y1="77" x2="205" y2="77" stroke="#555" stroke-width="2" marker-end="url(#a)"/>
+<rect x="205" y="55" width="120" height="44" rx="8" fill="#9a9a9a"/><text x="265" y="82.0" text-anchor="middle" font-size="13" fill="#fff">1.0.9</text>
+<line x1="325" y1="77" x2="360" y2="77" stroke="#555" stroke-width="2" marker-end="url(#a)"/>
+<rect x="360" y="55" width="170" height="44" rx="8" fill="#e07b39"/><text x="445" y="74.0" text-anchor="middle" font-size="13" fill="#fff">1.1.5</text><text x="445" y="90.0" text-anchor="middle" font-size="13" fill="#fff">(USB bootloader step)</text>
+<line x1="530" y1="77" x2="565" y2="77" stroke="#555" stroke-width="2" marker-end="url(#a)"/>
+<rect x="565" y="55" width="175" height="44" rx="8" fill="#2e8b57"/><text x="652" y="82.0" text-anchor="middle" font-size="13" fill="#fff">1.1.9 / 1.2.0</text>
+<rect x="15" y="150" width="112" height="60" rx="8" fill="#1a5fb4"/><text x="71" y="177.5" text-anchor="middle" font-size="12" fill="#fff">Remove</text><text x="71" y="192.5" text-anchor="middle" font-size="12" fill="#fff">batteries</text>
+<line x1="127" y1="180" x2="138" y2="180" stroke="#555" stroke-width="2" marker-end="url(#a)"/>
+<rect x="140" y="150" width="112" height="60" rx="8" fill="#1a5fb4"/><text x="196" y="177.5" text-anchor="middle" font-size="12" fill="#fff">Unzip firmware</text><text x="196" y="192.5" text-anchor="middle" font-size="12" fill="#fff">on Windows PC</text>
+<line x1="252" y1="180" x2="263" y2="180" stroke="#555" stroke-width="2" marker-end="url(#a)"/>
+<rect x="265" y="150" width="112" height="60" rx="8" fill="#1a5fb4"/><text x="321" y="177.5" text-anchor="middle" font-size="12" fill="#fff">USB-C data cable</text><text x="321" y="192.5" text-anchor="middle" font-size="12" fill="#fff">(try several)</text>
+<line x1="377" y1="180" x2="388" y2="180" stroke="#555" stroke-width="2" marker-end="url(#a)"/>
+<rect x="390" y="150" width="112" height="60" rx="8" fill="#1a5fb4"/><text x="446" y="177.5" text-anchor="middle" font-size="12" fill="#fff">Hold CH3+CH4</text><text x="446" y="192.5" text-anchor="middle" font-size="12" fill="#fff">press power</text>
+<line x1="502" y1="180" x2="513" y2="180" stroke="#555" stroke-width="2" marker-end="url(#a)"/>
+<rect x="515" y="150" width="112" height="60" rx="8" fill="#1a5fb4"/><text x="571" y="177.5" text-anchor="middle" font-size="12" fill="#fff">Run official</text><text x="571" y="192.5" text-anchor="middle" font-size="12" fill="#fff">.bat script</text>
+<line x1="627" y1="180" x2="638" y2="180" stroke="#555" stroke-width="2" marker-end="url(#a)"/>
+<rect x="640" y="150" width="112" height="60" rx="8" fill="#1a5fb4"/><text x="696" y="177.5" text-anchor="middle" font-size="12" fill="#fff">Eject, unplug,</text><text x="696" y="192.5" text-anchor="middle" font-size="12" fill="#fff">switch on</text>
+<text x="380" y="135" text-anchor="middle" font-size="13" fill="#444" font-weight="bold">Update steps from 1.1.5 onwards:</text>
+<text x="380" y="245" text-anchor="middle" font-size="13" fill="#c0392b">Never interrupt an update — an interrupted flash may need a factory reflash.</text>
+<text x="380" y="268" text-anchor="middle" font-size="13" fill="#444">Back up the firmware zips: DumboRC removes old versions.</text>
+</svg>

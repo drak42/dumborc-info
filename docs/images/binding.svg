@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="225" viewBox="0 0 760 225" font-family="Helvetica, Arial, sans-serif">
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#555"/></marker></defs><rect width="760" height="225" fill="#ffffff"/>
+<text x="380" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Binding a receiver</text>
+<rect x="15" y="60" width="136" height="66" rx="8" fill="#9a9a9a"/><text x="83" y="90.5" text-anchor="middle" font-size="12" fill="#fff">Radio and receiver</text><text x="83" y="105.5" text-anchor="middle" font-size="12" fill="#fff">60 cm apart</text>
+<line x1="151" y1="93" x2="163" y2="93" stroke="#555" stroke-width="2" marker-end="url(#a)"/>
+<rect x="165" y="60" width="136" height="66" rx="8" fill="#1a5fb4"/><text x="233" y="90.5" text-anchor="middle" font-size="12" fill="#fff">Transmitter ON</text><text x="233" y="105.5" text-anchor="middle" font-size="12" fill="#fff">first</text>
+<line x1="301" y1="93" x2="313" y2="93" stroke="#555" stroke-width="2" marker-end="url(#a)"/>
+<rect x="315" y="60" width="136" height="66" rx="8" fill="#1a5fb4"/><text x="383" y="90.5" text-anchor="middle" font-size="12" fill="#fff">Power the</text><text x="383" y="105.5" text-anchor="middle" font-size="12" fill="#fff">receiver</text>
+<line x1="451" y1="93" x2="463" y2="93" stroke="#555" stroke-width="2" marker-end="url(#a)"/>
+<rect x="465" y="60" width="136" height="66" rx="8" fill="#e07b39"/><text x="533" y="90.5" text-anchor="middle" font-size="12" fill="#fff">Hold bind key > 3 s</text><text x="533" y="105.5" text-anchor="middle" font-size="12" fill="#fff">LED flashes fast</text>
+<line x1="601" y1="93" x2="613" y2="93" stroke="#555" stroke-width="2" marker-end="url(#a)"/>
+<rect x="615" y="60" width="136" height="66" rx="8" fill="#2e8b57"/><text x="683" y="90.5" text-anchor="middle" font-size="12" fill="#fff">LED solid</text><text x="683" y="105.5" text-anchor="middle" font-size="12" fill="#fff">= bound</text>
+<text x="380" y="160" text-anchor="middle" font-size="13" fill="#444">Home screen then shows signal strength instead of NULL.</text>
+<text x="380" y="185" text-anchor="middle" font-size="13" fill="#444">Fast protocol (CH1–4 only): set protocol to fast → press bind on the radio (red icon) →</text>
+<text x="380" y="205" text-anchor="middle" font-size="13" fill="#444">power the receiver and press its bind key → icon turns blue.</text>
+</svg>

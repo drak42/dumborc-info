@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="432" viewBox="0 0 760 432" font-family="Helvetica, Arial, sans-serif">
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#555"/></marker></defs><rect width="760" height="432" fill="#ffffff"/>
+<text x="380" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">DDF-350 channels and controls</text>
+<text x="110" y="62" text-anchor="middle" font-size="13" fill="#222" font-weight="bold">Channel</text>
+<text x="300" y="62" text-anchor="middle" font-size="13" fill="#222" font-weight="bold">Control on the DDF-350</text>
+<text x="570" y="62" text-anchor="middle" font-size="13" fill="#222" font-weight="bold">Typical crawler use</text>
+<rect x="70" y="72" width="80" height="26" rx="5" fill="#1a5fb4"/><text x="110" y="90.0" text-anchor="middle" font-size="13" fill="#fff">CH1</text>
+<rect x="180" y="72" width="240" height="26" rx="5" fill="#eeeeee"/><text x="300" y="90.0" text-anchor="middle" font-size="13" fill="#222">Steering wheel</text>
+<rect x="450" y="72" width="240" height="26" rx="5" fill="#f6f6f6"/><text x="570" y="90.0" text-anchor="middle" font-size="13" fill="#444">Front steering</text>
+<rect x="70" y="104" width="80" height="26" rx="5" fill="#1a5fb4"/><text x="110" y="122.0" text-anchor="middle" font-size="13" fill="#fff">CH2</text>
+<rect x="180" y="104" width="240" height="26" rx="5" fill="#eeeeee"/><text x="300" y="122.0" text-anchor="middle" font-size="13" fill="#222">Throttle trigger</text>
+<rect x="450" y="104" width="240" height="26" rx="5" fill="#f6f6f6"/><text x="570" y="122.0" text-anchor="middle" font-size="13" fill="#444">ESC</text>
+<rect x="70" y="136" width="80" height="26" rx="5" fill="#e07b39"/><text x="110" y="154.0" text-anchor="middle" font-size="13" fill="#fff">CH3</text>
+<rect x="180" y="136" width="240" height="26" rx="5" fill="#eeeeee"/><text x="300" y="154.0" text-anchor="middle" font-size="13" fill="#222">Key K-3</text>
+<rect x="450" y="136" width="240" height="26" rx="5" fill="#f6f6f6"/><text x="570" y="154.0" text-anchor="middle" font-size="13" fill="#444">Winch / two-speed</text>
+<rect x="70" y="168" width="80" height="26" rx="5" fill="#e07b39"/><text x="110" y="186.0" text-anchor="middle" font-size="13" fill="#fff">CH4</text>
+<rect x="180" y="168" width="240" height="26" rx="5" fill="#eeeeee"/><text x="300" y="186.0" text-anchor="middle" font-size="13" fill="#222">Key K-4</text>
+<rect x="450" y="168" width="240" height="26" rx="5" fill="#f6f6f6"/><text x="570" y="186.0" text-anchor="middle" font-size="13" fill="#444">Rear steering (4WS fixed)</text>
+<rect x="70" y="200" width="80" height="26" rx="5" fill="#2e8b57"/><text x="110" y="218.0" text-anchor="middle" font-size="13" fill="#fff">CH5</text>
+<rect x="180" y="200" width="240" height="26" rx="5" fill="#eeeeee"/><text x="300" y="218.0" text-anchor="middle" font-size="13" fill="#222">Knob VR-5</text>
+<rect x="450" y="200" width="240" height="26" rx="5" fill="#f6f6f6"/><text x="570" y="218.0" text-anchor="middle" font-size="13" fill="#444">Cruise speed / dimmer</text>
+<rect x="70" y="232" width="80" height="26" rx="5" fill="#2e8b57"/><text x="110" y="250.0" text-anchor="middle" font-size="13" fill="#fff">CH6</text>
+<rect x="180" y="232" width="240" height="26" rx="5" fill="#eeeeee"/><text x="300" y="250.0" text-anchor="middle" font-size="13" fill="#222">Knob VR-6</text>
+<rect x="450" y="232" width="240" height="26" rx="5" fill="#f6f6f6"/><text x="570" y="250.0" text-anchor="middle" font-size="13" fill="#444">Extra servo / knob</text>
+<rect x="70" y="264" width="80" height="26" rx="5" fill="#8e44ad"/><text x="110" y="282.0" text-anchor="middle" font-size="13" fill="#fff">CH7</text>
+<rect x="180" y="264" width="240" height="26" rx="5" fill="#eeeeee"/><text x="300" y="282.0" text-anchor="middle" font-size="13" fill="#222">Switch SW-7 (3-pos)</text>
+<rect x="450" y="264" width="240" height="26" rx="5" fill="#f6f6f6"/><text x="570" y="282.0" text-anchor="middle" font-size="13" fill="#444">Lights / locker / 4WS mode</text>
+<rect x="70" y="296" width="80" height="26" rx="5" fill="#e07b39"/><text x="110" y="314.0" text-anchor="middle" font-size="13" fill="#fff">CH8</text>
+<rect x="180" y="296" width="240" height="26" rx="5" fill="#eeeeee"/><text x="300" y="314.0" text-anchor="middle" font-size="13" fill="#222">Key K-8</text>
+<rect x="450" y="296" width="240" height="26" rx="5" fill="#f6f6f6"/><text x="570" y="314.0" text-anchor="middle" font-size="13" fill="#444">Gyro gain (default)</text>
+<rect x="70" y="328" width="80" height="26" rx="5" fill="#e07b39"/><text x="110" y="346.0" text-anchor="middle" font-size="13" fill="#fff">CH9</text>
+<rect x="180" y="328" width="240" height="26" rx="5" fill="#eeeeee"/><text x="300" y="346.0" text-anchor="middle" font-size="13" fill="#222">Key K-9</text>
+<rect x="450" y="328" width="240" height="26" rx="5" fill="#f6f6f6"/><text x="570" y="346.0" text-anchor="middle" font-size="13" fill="#444">Lights / accessories</text>
+<rect x="70" y="360" width="80" height="26" rx="5" fill="#e07b39"/><text x="110" y="378.0" text-anchor="middle" font-size="13" fill="#fff">CH10</text>
+<rect x="180" y="360" width="240" height="26" rx="5" fill="#eeeeee"/><text x="300" y="378.0" text-anchor="middle" font-size="13" fill="#222">Key K-10</text>
+<rect x="450" y="360" width="240" height="26" rx="5" fill="#f6f6f6"/><text x="570" y="378.0" text-anchor="middle" font-size="13" fill="#444">Wiper (servo swing)</text>
+<text x="380" y="414" text-anchor="middle" font-size="12" fill="#555">Keys can be latching, momentary, 3-step or 4-step · any control can be moved with Remap</text>
+</svg>

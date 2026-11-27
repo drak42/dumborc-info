@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="295" viewBox="0 0 760 295" font-family="Helvetica, Arial, sans-serif">
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#555"/></marker></defs><rect width="760" height="295" fill="#ffffff"/>
+<text x="380" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Before every drive</text>
+<rect x="30" y="60" width="26" height="26" rx="4" fill="none" stroke="#2e8b57" stroke-width="3"/>
+<path d="M36,73 l6,7 l10,-14" stroke="#2e8b57" stroke-width="3" fill="none"/>
+<text x="70" y="79" text-anchor="start" font-size="14" fill="#222">Transmitter battery and alarm set</text>
+<rect x="390" y="60" width="26" height="26" rx="4" fill="none" stroke="#2e8b57" stroke-width="3"/>
+<path d="M396,73 l6,7 l10,-14" stroke="#2e8b57" stroke-width="3" fill="none"/>
+<text x="430" y="79" text-anchor="start" font-size="14" fill="#222">Correct model selected</text>
+<rect x="30" y="110" width="26" height="26" rx="4" fill="none" stroke="#2e8b57" stroke-width="3"/>
+<path d="M36,123 l6,7 l10,-14" stroke="#2e8b57" stroke-width="3" fill="none"/>
+<text x="70" y="129" text-anchor="start" font-size="14" fill="#222">Trigger and trims centred</text>
+<rect x="390" y="110" width="26" height="26" rx="4" fill="none" stroke="#2e8b57" stroke-width="3"/>
+<path d="M396,123 l6,7 l10,-14" stroke="#2e8b57" stroke-width="3" fill="none"/>
+<text x="430" y="129" text-anchor="start" font-size="14" fill="#222">Transmitter on → then vehicle</text>
+<rect x="30" y="160" width="26" height="26" rx="4" fill="none" stroke="#2e8b57" stroke-width="3"/>
+<path d="M36,173 l6,7 l10,-14" stroke="#2e8b57" stroke-width="3" fill="none"/>
+<text x="70" y="179" text-anchor="start" font-size="14" fill="#222">Signal strength shown (not NULL)</text>
+<rect x="390" y="160" width="26" height="26" rx="4" fill="none" stroke="#2e8b57" stroke-width="3"/>
+<path d="M396,173 l6,7 l10,-14" stroke="#2e8b57" stroke-width="3" fill="none"/>
+<text x="430" y="179" text-anchor="start" font-size="14" fill="#222">Steering and throttle directions right</text>
+<rect x="30" y="210" width="26" height="26" rx="4" fill="none" stroke="#2e8b57" stroke-width="3"/>
+<path d="M36,223 l6,7 l10,-14" stroke="#2e8b57" stroke-width="3" fill="none"/>
+<text x="70" y="229" text-anchor="start" font-size="14" fill="#222">Fail-safe stops the motor</text>
+<rect x="390" y="210" width="26" height="26" rx="4" fill="none" stroke="#2e8b57" stroke-width="3"/>
+<path d="M396,223 l6,7 l10,-14" stroke="#2e8b57" stroke-width="3" fill="none"/>
+<text x="430" y="229" text-anchor="start" font-size="14" fill="#222">Gyro direction correct (if used)</text>
+<text x="380" y="280" text-anchor="middle" font-size="13" fill="#444">Switch off in reverse order: vehicle first, then transmitter.</text>
+</svg>

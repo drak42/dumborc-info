@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="345" viewBox="0 0 760 345" font-family="Helvetica, Arial, sans-serif">
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#555"/></marker></defs><rect width="760" height="345" fill="#ffffff"/>
+<text x="380" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Receiver bind-key functions</text>
+<circle cx="90" cy="74" r="22" fill="#e07b39"/>
+<text x="90" y="79" text-anchor="middle" font-size="11" fill="#fff" font-weight="bold">hold 3 s</text>
+<text x="124" y="79" text-anchor="start" font-size="14" fill="#222">Bind</text>
+<circle cx="430" cy="74" r="22" fill="#c0392b"/>
+<text x="430" y="79" text-anchor="middle" font-size="17" fill="#fff" font-weight="bold">1</text>
+<text x="464" y="79" text-anchor="start" font-size="14" fill="#222">Fail-safe</text>
+<circle cx="90" cy="126" r="22" fill="#1a5fb4"/>
+<text x="90" y="131" text-anchor="middle" font-size="17" fill="#fff" font-weight="bold">2</text>
+<text x="124" y="131" text-anchor="start" font-size="14" fill="#222">Gyro direction</text>
+<circle cx="430" cy="126" r="22" fill="#1a5fb4"/>
+<text x="430" y="131" text-anchor="middle" font-size="17" fill="#fff" font-weight="bold">3</text>
+<text x="464" y="131" text-anchor="start" font-size="14" fill="#222">Gyro on/off</text>
+<circle cx="90" cy="178" r="22" fill="#8e44ad"/>
+<text x="90" y="183" text-anchor="middle" font-size="17" fill="#fff" font-weight="bold">4</text>
+<text x="124" y="183" text-anchor="start" font-size="14" fill="#222">Analog/digital servo</text>
+<circle cx="430" cy="178" r="22" fill="#8e44ad"/>
+<text x="430" y="183" text-anchor="middle" font-size="17" fill="#fff" font-weight="bold">5</text>
+<text x="464" y="183" text-anchor="start" font-size="14" fill="#222">EPA calibration</text>
+<circle cx="90" cy="230" r="22" fill="#2e8b57"/>
+<text x="90" y="235" text-anchor="middle" font-size="17" fill="#fff" font-weight="bold">7</text>
+<text x="124" y="235" text-anchor="start" font-size="14" fill="#222">Light channel (P6FPG)</text>
+<circle cx="430" cy="230" r="22" fill="#1a5fb4"/>
+<text x="430" y="235" text-anchor="middle" font-size="17" fill="#fff" font-weight="bold">8</text>
+<text x="464" y="235" text-anchor="start" font-size="14" fill="#222">Gyro slow centre and wheel-mix ratio</text>
+<text x="380" y="285" text-anchor="middle" font-size="13" fill="#444">Press the receiver's bind key the number of times shown.</text>
+<text x="380" y="307" text-anchor="middle" font-size="13" fill="#444">With a DDF-350 on 1.1.5+ firmware, most of these can be set from the Receiver menu instead.</text>
+<text x="380" y="329" text-anchor="middle" font-size="13" fill="#c0392b">Fail-safe: press once → hold controls at neutral → press again (LED solid = saved)</text>
+</svg>
